@@ -9,6 +9,7 @@ public class RandomGroups53{
         System.out.println("V7");
         System.out.println(readStu());
         randomGroups(readStu(), 5);
+        System.out.println("Second devloper was here");
     }
 
     public static ArrayList<String> readStu(){
